@@ -1,0 +1,44 @@
+h1{
+    color: red;
+    margin-right: 1022px;
+    border-color: darkcyan;
+    border-style: solid;
+    margin-left: 305px;
+    border-width: 3px;
+    border-radius: 20px;
+}
+h2{
+    margin-left: 150px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+button{
+    padding: 5px 10px 5px 10px;
+    border-color: black;
+    border-radius: 15px;
+    border-width: 3px;
+    background-color: yellow;
+}
+button:hover{
+    border-color: yellow;
+    border-width: 5px;
+    background-color: orange;
+    cursor: pointer;
+}
+#um{
+    float: left;
+    margin-left: 200px;  
+}
+#dois {
+    float: left;
+    margin-left: 35px;
+}
+#quatro {
+    float:right;
+    margin-top: 25px;
+    margin-right: 965px;
+}
+#tres {
+    float: right;
+    margin-top: 25px;
+    margin-right: 35px;
+}
